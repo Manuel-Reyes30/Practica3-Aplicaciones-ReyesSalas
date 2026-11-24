@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Practica3</string>
+    <string name="materia" translatable="false">Desarrollo de aplicaciones</string>
+    <string name="nombre" translatable="false">Manuel</string>
+    <string name="apellido" translatable="false">Reyes</string>
+    <string name="home_screen" translatable="false">Inicio</string>
+    <string name="back_btn_desc" translatable="false">bot</string>
+    <string name="bottom_app_bar" translatable="false">barra de abajo</string>
+    <string name="home_fab_text" translatable="false">Home</string>
+    <string name="options_menu" translatable="false">Menú de opciones</string>
+    <string name="profile" translatable="false">Perfil</string>
+    <string name="config" translatable="false">Configuración</string>
+    <string name="logout" translatable="false">Cerrar sesión</string>
+
+</resources>
